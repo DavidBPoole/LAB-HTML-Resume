@@ -1,3 +1,26 @@
 body {
   background-color: lightblue;
 }
+
+h2 {
+  color:blue
+}
+
+article{
+  padding: 25px
+}
+
+#articleOne {
+  font-family: 'Courier New';
+  border: 3px solid lightgreen;
+}
+
+#articleTwo {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+  border: 4px dotted yellow;
+}
+
+#articleThree {
+  font-family: 'Lucida Sans' 'Verdana';
+  border: 5px dashed magenta;
+}
